@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+    .button-primary {
+        @apply inline-flex items-center px-6 py-3 mt-6 border cursor-pointer border-transparent text-base font-medium rounded-full shadow-sm text-white bg-w-blue focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500;
+    }
+    .button-secondary {
+        @apply inline-flex items-center px-6 py-3 border border-transparent text-base font-bold rounded-full shadow-sm text-w-blue bg-white hover:bg-w-blue hover:border-4 hover:border-white hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-w-blue;
+    }
+}
