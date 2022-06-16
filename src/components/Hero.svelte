@@ -28,7 +28,7 @@
 						give back to the local economy. Be a part of workshops, networking events, and
 						mentorship.
 					</dd>
-					<a type="button" class="button-primary ml-16"> Get Connected </a>
+					<a type="button" href="/" class="button-primary ml-16"> Get Connected </a>
 				</div>
 
 				<div class="relative">
@@ -41,7 +41,7 @@
 						services such as web design, writing, or marketing. Get connected with the creative
 						individuals who live right in your own backyard.
 					</dd>
-					<a type="button" class="button-primary ml-16"> Get Connected </a>
+					<a type="button" href="/" class="button-primary ml-16"> Get Connected </a>
 				</div>
 			</dl>
 		</div>
