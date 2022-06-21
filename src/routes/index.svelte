@@ -12,4 +12,4 @@
 	<strong>individuals and organizations who need help with projects</strong> that better our vibrant
 	town.
 </Hero>
-<img src={lander} alt="sketch of downtown Lander Wyoming" />
+<img src={lander} class="mx-auto" alt="sketch of downtown Lander Wyoming" />
