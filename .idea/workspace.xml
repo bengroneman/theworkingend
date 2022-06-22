@@ -47,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/bgadmin/OneDrive/Desktop/Dracula/themes/jetbrains/dracula-pro.zip",
+    "last_opened_file_path": "//wsl$/Ubuntu-20.04/home/bgadmin/code/2022_projects/theworkingend",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -77,6 +77,7 @@
       <workItem from="1655343031314" duration="5886000" />
       <workItem from="1655418065998" duration="6771000" />
       <workItem from="1655819218782" duration="2305000" />
+      <workItem from="1655904117595" duration="607000" />
     </task>
     <servers />
   </component>

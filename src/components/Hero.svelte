@@ -1,7 +1,7 @@
 <script>
 	export let title;
 	import jackalope from '$lib/assets/img/CreativeMember_jackalope.jpg';
-	import elk from '$lib/assets/img/Client_Elk+copy.png';
+	import elk from '$lib/assets/img/Client_Elk.png';
 </script>
 
 <!-- This example requires Tailwind CSS v2.0+ -->
